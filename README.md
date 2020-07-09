@@ -1,4 +1,4 @@
-### Christian Rebischke
+### Hey, there 👋
 
 - 🤖 Working on https://github.com/in-toto/in-toto-golang
 - 👀 Looking for Site Reliability Engineering positions
