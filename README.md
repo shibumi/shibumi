@@ -5,3 +5,7 @@
 - 🔭 Interested in Go, Python, Kubernetes, CNCF projects
 - 🐧 Uses Linux and is Arch Linux package maintainer
 - 🔖 Check out my blog: https://shibumi.dev
+
+### Latest Posts
+<!-- feed start -->
+<!-- feed end -->
