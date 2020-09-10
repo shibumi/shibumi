@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-- 🤖 Currently working on the CNCF project https://github.com/in-toto/in-toto-golang and https://github.com/theupdateframework/go-tuf
+- 🤖 Currently working on the CNCF project [in-toto-golang](https://github.com/in-toto/in-toto-golang) and [go-tuf](https://github.com/theupdateframework/go-tuf)
 - 👀 Looking for Site Reliability Engineering positions
 - 🔭 Interested in Go, Python, Kubernetes, CNCF projects
 - 🐧 Uses Linux and is Arch Linux package maintainer
