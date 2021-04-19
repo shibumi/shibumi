@@ -7,9 +7,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Apr 18 - [Go Embed and Angular](https://shibumi.dev/posts/go-embed-and-angular/)
 - Mar 13 - [Wayland in 2021](https://shibumi.dev/posts/wayland-in-2021/)
 - Jan 25 - [Kubernetes on Hetzner in 2021](https://shibumi.dev/posts/kubernetes-on-hetzner-in-2021/)
 - Aug 31 - [Google Summer of Code 2020](https://shibumi.dev/posts/google-summer-of-code-2020/)
 - Aug 19 - [How I install Arch Linux](https://shibumi.dev/posts/how-i-install-arch-linux/)
-- May 28 - [Wayland in 2020](https://shibumi.dev/posts/wayland-in-2020/)
 <!-- feed end -->
