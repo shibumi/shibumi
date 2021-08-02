@@ -7,9 +7,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Aug 01 - [Kubermatic on Hetzner](https://shibumi.dev/posts/kubermatic-on-hetzner/)
+- Aug 01 - [Hardening Executables](https://shibumi.dev/posts/hardening-executables/)
 - Jun 17 - [Automated Website Testing with Selenium](https://shibumi.dev/posts/automated-website-testing/)
 - May 21 - [Boost your productivity with ZSH and Alacritty](https://shibumi.dev/posts/zsh-and-alacritty/)
 - Apr 18 - [Go Embed and Angular](https://shibumi.dev/posts/go-embed-and-angular/)
-- Mar 13 - [Wayland in 2021](https://shibumi.dev/posts/wayland-in-2021/)
-- Jan 25 - [Kubernetes on Hetzner in 2021](https://shibumi.dev/posts/kubernetes-on-hetzner-in-2021/)
 <!-- feed end -->
