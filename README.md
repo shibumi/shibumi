@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-- 🤖 Currently working on the CNCF project [in-toto-golang](https://github.com/in-toto/in-toto-golang) and [go-tuf](https://github.com/theupdateframework/go-tuf)
+- 🤖 Currently working on the CNCF project [in-toto-golang](https://github.com/in-toto/in-toto-golang)
 - 🔭 Interested in Go, Python, Kubernetes, CNCF projects
 - 🐧 Uses Linux and is Arch Linux package maintainer
 - 🔖 Check out my blog: https://shibumi.dev
