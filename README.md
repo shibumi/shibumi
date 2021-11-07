@@ -7,9 +7,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 07 - [Keyless signatures for blobs with cosign](https://shibumi.dev/posts/first-look-into-cosign/)
 - Sep 24 - [Cloud Native and Arch Linux](https://shibumi.dev/posts/cncf-and-archlinux/)
 - Aug 01 - [Kubermatic on Hetzner](https://shibumi.dev/posts/kubermatic-on-hetzner/)
 - Aug 01 - [Hardening Executables](https://shibumi.dev/posts/hardening-executables/)
 - Jun 17 - [Automated Website Testing with Selenium](https://shibumi.dev/posts/automated-website-testing/)
-- May 21 - [Boost your productivity with ZSH and Alacritty](https://shibumi.dev/posts/zsh-and-alacritty/)
 <!-- feed end -->
