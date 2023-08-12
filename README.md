@@ -7,9 +7,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Aug 05 - [Yubikey in Crostini](https://shibumi.dev/posts/yubikey-in-crostini/)
+- Aug 05 - [Mount Block Devices in ChromeOS](https://shibumi.dev/posts/mount-block-devices-in-chromeos/)
+- Jan 14 - [How to enable developer mode on Chrome OS Flex](https://shibumi.dev/posts/enable-developer-mode-on-chrome-os-flex/)
 - Oct 28 - [Install Arch Linux on ChromeOS](https://shibumi.dev/posts/install-arch-linux-on-chromeos/)
 - Aug 24 - [Day in the life of a package maintainer: Reproducible Go packages](https://shibumi.dev/posts/day-in-the-life-of-a-package-maintainer-reproducible-go-packages/)
-- Apr 03 - [Go 1.18 debug/buildinfo features](https://shibumi.dev/posts/go-18-feature/)
-- Nov 21 - [Hetzner Pulumi Intro](https://shibumi.dev/posts/hetzner-pulumi-intro/)
-- Nov 13 - [Keyless signatures with Github Actions](https://shibumi.dev/posts/keyless-signatures-with-github-actions/)
 <!-- feed end -->
