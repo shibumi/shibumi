@@ -7,9 +7,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Sep 08 - [Weechat With SSH Tunneling](https://shibumi.dev/posts/weechat-with-ssh-tunneling/)
 - Aug 05 - [Yubikey in Crostini](https://shibumi.dev/posts/yubikey-in-crostini/)
 - Aug 05 - [Mount Block Devices in ChromeOS](https://shibumi.dev/posts/mount-block-devices-in-chromeos/)
 - Jan 14 - [How to enable developer mode on Chrome OS Flex](https://shibumi.dev/posts/enable-developer-mode-on-chrome-os-flex/)
 - Oct 28 - [Install Arch Linux on ChromeOS](https://shibumi.dev/posts/install-arch-linux-on-chromeos/)
-- Aug 24 - [Day in the life of a package maintainer: Reproducible Go packages](https://shibumi.dev/posts/day-in-the-life-of-a-package-maintainer-reproducible-go-packages/)
 <!-- feed end -->
